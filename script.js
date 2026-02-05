@@ -1,0 +1,1 @@
+alert("Black friday sale is live now!")

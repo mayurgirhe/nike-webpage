@@ -1,1 +1,0 @@
-alert("Black Friday Sale Live Now")
